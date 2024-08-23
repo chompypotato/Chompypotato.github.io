@@ -1,2 +1,2 @@
 # Chompypotato.github.io
-Main page
+Main page for ma websites
