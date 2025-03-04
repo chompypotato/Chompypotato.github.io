@@ -1,3 +1,1 @@
-# Chompypotato.github.io
-Main page for ma websites
-New one is Chompypotatodev.glitch.me
+ok so i found my old site it sucks ima add stuff
