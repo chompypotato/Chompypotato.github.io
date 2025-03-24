@@ -7,8 +7,8 @@ function createSitePet(gfx) {
 
   var ele = document.createElement("div");
   ele.style.position = 'fixed';
-  ele.style.width = '64px';
-  ele.style.height = '64px';
+  ele.style.width = '128px';
+  ele.style.height = '128px';
   ele.style.backgroundImage = `url(https://chompypotato.github.io/duck.png)`;
   ele.style.backgroundRepeat = 'no-repeat';
   ele.style.backgroundSize = 'cover';
